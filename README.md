@@ -1,2 +1,2 @@
-# ssrs-create-matrix-report
+# SSRS Matrix Report
 Microsoft SQL Server Reporting Services report.
